@@ -1,24 +1,13 @@
-# README
+# Authentication and Authorization
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Authentication: Establishing the credentials - login
+- Authorization: Permissions to access specific information based on my credentials
 
-Things you may want to cover:
+## Devise
+- Devise is a Ruby gem
+- Handles authentication and authorization on the backend
 
-* Ruby version
+## JWT
+- JWT - JSON Web Token
+- A token that is handed from our backend to the frontend telling our application a user is logged in and authenticated
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
